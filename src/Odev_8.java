@@ -10,7 +10,7 @@ CREATE TABLE employee (
 2.Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
 
 INSERT INTO employee (name, birthday, email) VALUES
-    ('Alecia', '1914-05-30', 'acolerick0@example.com'),
+        ('Alecia', '1914-05-30', 'acolerick0@example.com'),
         ('Opalina', '2020-05-31', 'ogetch2@example.com'),
         ('Justis', '2012-01-16', 'jdressel4@example.com');
         ...+47
